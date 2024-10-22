@@ -1,0 +1,29 @@
+
+.skills_container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+
+   
+   
+}
+
+
+.skills_box
+{
+    text-align: center;
+    height: 40%;
+    width: 40%;
+   
+}
+
+.skills_list
+{
+   
+   list-style-type: none;
+   font-weight: bold;
+  
+}
+

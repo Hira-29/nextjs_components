@@ -1,0 +1,46 @@
+
+
+
+.header{
+    background-color:burlywood;
+    color:white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.header .logo h1{
+    margin: 0;
+}
+
+.header nav ul
+{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    font-weight: bold;
+}
+
+.header nav ul li
+{
+    margin-left: 40px;
+}
+
+.header nav ul li:hover
+{
+  
+    width:50px;
+    color:red;
+}
+
+
+.logo
+{
+   
+    color:red;
+    font-family: sans-serif;
+}
+ 
